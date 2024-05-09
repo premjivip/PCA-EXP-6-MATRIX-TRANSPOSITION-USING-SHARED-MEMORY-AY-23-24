@@ -405,15 +405,12 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 ~~~
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
-![Screenshot 2024-04-24 001341](https://github.com/kabilanthiyagarajan/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/assets/120206067/700eee37-4b03-4065-a041-9695c07c5f95)
-![Screenshot 2024-04-24 001406](https://github.com/kabilanthiyagarajan/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/assets/120206067/454709e5-07b3-4f77-867d-0ff3eb9dd38a)
-![Screenshot 2024-04-24 001431](https://github.com/kabilanthiyagarajan/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/assets/120206067/566e66ab-79dd-4bf6-b966-3df80f3e4b99)
-![Screenshot 2024-04-24 001505](https://github.com/kabilanthiyagarajan/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/assets/120206067/015d1025-f168-4ae1-a259-242598c0cf40)
 
+
+![328993534-52713355-c47e-43c0-b03c-07750e1785aa](https://github.com/premjivip/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/assets/143831886/8053116d-68ef-434d-8f37-5c0dabe20fd8)
 
 
 
 
 ## RESULT:
-Thus the program has been executed by using CUDA to transpose a matrix. It is observed that there are variations shared memory and global memory implementation. The elapsed times are recorded as _______________.
+The Matrix transposition on shared memory with grid (1,1) block (16,16) is demonstrated successfully.
